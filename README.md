@@ -4,7 +4,7 @@
 
 ### Web/app developer • realtime apps • maps & mobility • customization
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+useful+web+experiences;Making+transport+data+easier+to+explore;JavaScript+%7C+Java+%7C+Web+APIs" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+useful+experiences;Making+lifes+easier+to+explore;JavaScript+%7C+Java+%7C+Web+APIs" alt="Animated introduction" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-becabdev-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/becabdev)
 [![MyBusFinder](https://img.shields.io/badge/Project-MyBusFinder-0284C7?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.mybusfinder.fr/)
